@@ -1,0 +1,41 @@
+SHA256 - 1: [110, 101, 119, 95, 101, 114, 112, 95, 98, 99, 112, 95, 105, 118]
+SHA256 - 2: d45a94d799edea8df505cd98daba237537622441458681cbf5f459bbf59274c9
+hashSHA256 - initVector : d45a94d799edea8df505cd98daba237537622441458681cbf5f459bbf59274c9
+SHA256 - 1: [110, 101, 119, 95, 101, 114, 112, 95, 98, 99, 112, 95, 105, 118]
+SHA256 - 2: d45a94d799edea8df505cd98daba237537622441458681cbf5f459bbf59274c9
+SHA256 - 1: [110, 101, 119, 95, 101, 114, 112, 95, 98, 99, 112, 95, 107, 101, 121]
+SHA256 - 2: ba47ccf9975ad23ce44291659805ee58eec960e937570e71c6d8b38fb5628ea4
+decryptBarcode - Step 01: [100, 52, 53, 97, 57, 52, 100, 55, 57, 57, 101, 100, 101, 97, 56, 100]
+decryptBarcode - Step 02: [100, 52, 53, 97, 57, 52, 100, 55, 57, 57, 101, 100, 101, 97, 56, 100]
+SHA256 - 1: [110, 101, 119, 95, 101, 114, 112, 95, 98, 99, 112, 95, 107, 101, 121]
+SHA256 - 2: ba47ccf9975ad23ce44291659805ee58eec960e937570e71c6d8b38fb5628ea4
+decryptBarcode - Step 03 - hashSHA256: ba47ccf9975ad23ce44291659805ee58eec960e937570e71c6d8b38fb5628ea4
+SHA256 - 1: [110, 101, 119, 95, 101, 114, 112, 95, 98, 99, 112, 95, 107, 101, 121]
+SHA256 - 2: ba47ccf9975ad23ce44291659805ee58eec960e937570e71c6d8b38fb5628ea4
+decryptBarcode - Step 03 - hashSHA256=2: ba47ccf9975ad23c
+SHA256 - 1: [110, 101, 119, 95, 101, 114, 112, 95, 98, 99, 112, 95, 107, 101, 121]
+SHA256 - 2: ba47ccf9975ad23ce44291659805ee58eec960e937570e71c6d8b38fb5628ea4
+decryptBarcode - Step 03 - hashSHA256=3: [98, 97, 52, 55, 99, 99, 102, 57, 57, 55, 53, 97, 100, 50, 51, 99]
+decrypted3 : ITBA~220725164222
+value qrcode: ITBA~220725164222
+dataLog8 - getUser 2: ITBA
+dataLog9 - getUser 2: 220725164222
+dataLog10-getUser 2: 220725
+dataLog11-getUser 2: 250722
+dataLog12-getUser 2: 164222
+dataLog13-getUser 2: 224216
+dataLog14-getUser 2: 474938
+usernameASCII - Step 0:
+usernameASCII: 73
+usernameASCII - Step 1: 73
+usernameASCII: 84
+usernameASCII - Step 2: 7384
+usernameASCII: 66
+usernameASCII - Step 3: 738466
+usernameASCII: 65
+dataLogASCII-usernameASCII : 73846665
+dataLogASCII-rightASCII: 846665
+dataLogASCII-ASCIITgl: 402113381770.0
+dataLogASCII-rawToken: 115808653949760.0
+dataLogASCII-getUser 2: 8653
+generate Token: 8653
